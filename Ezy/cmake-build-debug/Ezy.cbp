@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ezy"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/prestomsmith/Documents/Ezy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/prestomsmith/Documents/Ezy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/prestomsmith/Documents/Ezy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ezy">
+				<Option output="/home/prestomsmith/Documents/Ezy/cmake-build-debug/Ezy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/prestomsmith/Documents/Ezy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/prestomsmith/Documents/Ezy/EzyC"/>
+					<Add directory="/home/prestomsmith/Documents/Ezy/EzyC/Unimplemented"/>
+					<Add directory="/home/prestomsmith/Documents/Ezy/libs"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ezy"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ezy/fast">
+				<Option output="/home/prestomsmith/Documents/Ezy/cmake-build-debug/Ezy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/prestomsmith/Documents/Ezy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/prestomsmith/Documents/Ezy/EzyC"/>
+					<Add directory="/home/prestomsmith/Documents/Ezy/EzyC/Unimplemented"/>
+					<Add directory="/home/prestomsmith/Documents/Ezy/libs"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ezy/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/prestomsmith/Documents/Ezy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Common.hpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Qlog.hpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Syntax.cpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Syntax.hpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Tokenizer.cpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Tokenizer.hpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Unimplemented/Compile.cpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Unimplemented/Compile.hpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Unimplemented/Log.cpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Unimplemented/SymbolTable.cpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/EzyC/Unimplemented/SymbolTable.hpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/libs/rang.hpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/main.cpp">
+			<Option target="Ezy"/>
+		</Unit>
+		<Unit filename="/home/prestomsmith/Documents/Ezy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

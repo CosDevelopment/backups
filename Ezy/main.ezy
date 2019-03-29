@@ -1,0 +1,27 @@
+main:
+    int x =5,y=7,z=0;
+    z = x + y;
+    Out z;
+end
+
+---
+eventually try to create a pipe symantic:
+    z=x+y |> Out
+
+    out(int x);
+---
+
+---
+ x db 5
+ y db 7
+ z db 0
+
+ mov rax,x
+ add rax,y
+ mov z,rax
+ xor rax,rax
+ mov rax,?
+ mov rbx,?
+ mov rbi,?
+ SYSCALL
+---

@@ -1,0 +1,32 @@
+eyes = 0000  
+hair = 0000
+niceness = 0000
+attractiveness =0000
+dress = 0000
+phone = 0000
+preferred = 0000
+physique = 0000
+intelligence = 0000
+00000000000
+
+//////////////////////////////////////////////////////////
+take in inputs, convert to strings, combine into one string of binary
+
+when reading binary value from match file, convert them to Ulongs;
+check 4 bits, bitshift, check 4 bits, bitshift, check 4 bits, bit shift, etc etc;
+std::string str = std::bitset<8>(123).to_string();    go from int to string;
+unsigned long n = std::bitset<8>("11011011").to_ulong(); go from string to Ulong;
+
+
+
+//////////////////////////////////////////////////////////
+
+000001111
+000001111
+
+110101010
+000001111
+
+000001010
+xor000001111
+00000001010

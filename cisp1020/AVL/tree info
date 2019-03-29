@@ -1,0 +1,9 @@
+z is forst unbanlanced node going towards root
+y is the child of z with the highest height
+x is the child of y with the highest height
+
+
+x >= y >= z
+x  =< y =< z
+x<= y >= z
+x >= y <= z

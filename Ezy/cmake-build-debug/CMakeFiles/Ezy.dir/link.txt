@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Ezy.dir/EzyC/Unimplemented/Compile.cpp.o CMakeFiles/Ezy.dir/EzyC/Unimplemented/Log.cpp.o CMakeFiles/Ezy.dir/EzyC/Unimplemented/SymbolTable.cpp.o CMakeFiles/Ezy.dir/EzyC/Syntax.cpp.o CMakeFiles/Ezy.dir/EzyC/Tokenizer.cpp.o CMakeFiles/Ezy.dir/main.cpp.o  -o Ezy 

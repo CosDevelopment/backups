@@ -1,0 +1,9 @@
+/home/prestomsmith/Documents/Palagg/PaladinsApiC_Sharp/bin/Debug/netstandard2.0/PaladinsApiC_Sharp.deps.json
+/home/prestomsmith/Documents/Palagg/PaladinsApiC_Sharp/bin/Debug/netstandard2.0/PaladinsApiC_Sharp.dll
+/home/prestomsmith/Documents/Palagg/PaladinsApiC_Sharp/bin/Debug/netstandard2.0/PaladinsApiC_Sharp.pdb
+/home/prestomsmith/Documents/Palagg/PaladinsApiC_Sharp/obj/Debug/netstandard2.0/PaladinsApiC_Sharp.csprojAssemblyReference.cache
+/home/prestomsmith/Documents/Palagg/PaladinsApiC_Sharp/obj/Debug/netstandard2.0/PaladinsApiC_Sharp.csproj.CoreCompileInputs.cache
+/home/prestomsmith/Documents/Palagg/PaladinsApiC_Sharp/obj/Debug/netstandard2.0/PaladinsApiC_Sharp.AssemblyInfoInputs.cache
+/home/prestomsmith/Documents/Palagg/PaladinsApiC_Sharp/obj/Debug/netstandard2.0/PaladinsApiC_Sharp.AssemblyInfo.cs
+/home/prestomsmith/Documents/Palagg/PaladinsApiC_Sharp/obj/Debug/netstandard2.0/PaladinsApiC_Sharp.dll
+/home/prestomsmith/Documents/Palagg/PaladinsApiC_Sharp/obj/Debug/netstandard2.0/PaladinsApiC_Sharp.pdb

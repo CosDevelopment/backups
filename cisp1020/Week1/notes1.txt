@@ -1,0 +1,11 @@
+stages of compiler -> Preprocessor,Compile, Link
+
+Preprocessor Directives
+#include -> includes header file
+#define - defines a constant,inline not ram, better than const 
+#ifdef #elif #endif
+
+namespaces -> used to divide up functions and variables 
+
+bitwise operators & | ~ ^  (and or not xor)
+

@@ -1,0 +1,10 @@
+1) simple intructions averaging once clock ->>>>>>>. risc
+2) single register set -> cisc
+3) complexity in the compiler -> risc
+4) highly pipelined -> risc
+5) any instruction can reference memory -> cisc
+6) instructions are interpreted by the microcode ->>> cisc
+7) fixed length, easily decoded instruction format ->>> risc
+8) Highly specialized, infrequently used instructions ->>> cisc
+9) use of overlapping register windows -> cisc
+10) relatively few addressing modes ->risc

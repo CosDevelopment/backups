@@ -1,0 +1,9 @@
+/home/prestomsmith/Documents/Palagg/palagg/palagg/palagg.Shared/bin/Debug/netstandard2.0/palagg.Shared.deps.json
+/home/prestomsmith/Documents/Palagg/palagg/palagg/palagg.Shared/bin/Debug/netstandard2.0/palagg.Shared.dll
+/home/prestomsmith/Documents/Palagg/palagg/palagg/palagg.Shared/bin/Debug/netstandard2.0/palagg.Shared.pdb
+/home/prestomsmith/Documents/Palagg/palagg/palagg/palagg.Shared/obj/Debug/netstandard2.0/palagg.Shared.csprojAssemblyReference.cache
+/home/prestomsmith/Documents/Palagg/palagg/palagg/palagg.Shared/obj/Debug/netstandard2.0/palagg.Shared.csproj.CoreCompileInputs.cache
+/home/prestomsmith/Documents/Palagg/palagg/palagg/palagg.Shared/obj/Debug/netstandard2.0/palagg.Shared.AssemblyInfoInputs.cache
+/home/prestomsmith/Documents/Palagg/palagg/palagg/palagg.Shared/obj/Debug/netstandard2.0/palagg.Shared.AssemblyInfo.cs
+/home/prestomsmith/Documents/Palagg/palagg/palagg/palagg.Shared/obj/Debug/netstandard2.0/palagg.Shared.dll
+/home/prestomsmith/Documents/Palagg/palagg/palagg/palagg.Shared/obj/Debug/netstandard2.0/palagg.Shared.pdb
